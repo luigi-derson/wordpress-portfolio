@@ -10,4 +10,4 @@ Development stack:
 - Nginx
 - Certbot
 
-(How to setup wordpress and nginx in docker)[https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose]
+[How to setup wordpress and nginx in docker](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose)
